@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ranjith-Ittaboina
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python and Data Science
+Hi, I’m @Ranjith-Ittaboina
+I’m interested in Data Science and machine learning
+I’m currently learning python under data science course
+I’m looking to collaborate on python projects and Data Science
 
 
 <!---
